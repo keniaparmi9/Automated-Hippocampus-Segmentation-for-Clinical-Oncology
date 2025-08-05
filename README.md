@@ -77,29 +77,21 @@ python evaluate.py
 python visualize.py
 
 📊 Results
-| Metric         | Value         |
-| -------------- | ------------- |
-| IoU            | 0.96+         |
-| mAP            | 0.98+         |
-| Inference Time | \~50 ms/image |
+Metric
+IoU
+mAP
+Inference Time
 
 🛠️ Tools & Libraries
 PyTorch: Deep learning framework
-
 OpenCV: Image pre-processing
-
 scikit-image: Image enhancement and filters
-
 Matplotlib: Result visualization
 
 💡 Future Enhancements
-🧠 Integrate with 3D U-Net for volumetric segmentation
-
-📦 Convert model to ONNX for cross-platform deployment
-
-🖥️ Deploy as a web tool using Streamlit or Flask
-
-🩺 Collaborate with radiologists for clinical validation
+Integrate with 3D U-Net for volumetric segmentation
+Convert model to ONNX for cross-platform deployment
+Deploy as a web tool using Streamlit or Flask
 
 👤 Author
 Parmi Kenia
