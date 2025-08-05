@@ -60,7 +60,8 @@ cd hippocampus-segmentation
 2. Install Dependencies
 pip install torch torchvision opencv-python matplotlib scikit-image
 
-3. Prepare Your Dataset
+3. Prepare Your Dataset:
+   
 -Place MRI images in the images/ folder
 
 -Place corresponding segmentation masks in the masks/ folder
